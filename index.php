@@ -53,7 +53,7 @@ function loginForm(){
     ?>
         <div id="wrapper">
             <div id="menu">
-            <p class="welcome"><b>Let's talk about Bardis ,<?php echo $_SESSION['name' ]; ?></b></p>
+            <p class="welcome"><b>Let's talk about Iros Bardis ,<?php echo $_SESSION['name' ]; ?></b></p>
                 <p class="logout"><a id="exit" href="#">Exit Chat</a></p>
             </div>
  
